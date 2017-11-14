@@ -1,0 +1,9 @@
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\bin\Debug\EnviarKeys.exe.config
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\bin\Debug\EnviarKeys.exe
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\bin\Debug\EnviarKeys.pdb
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.csprojResolveAssemblyReference.cache
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.Form1.resources
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.Properties.Resources.resources
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.csproj.GenerateResource.Cache
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.exe
+c:\users\id\documents\visual studio 2015\Projects\EnviarKeys\EnviarKeys\obj\Debug\EnviarKeys.pdb

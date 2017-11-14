@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarKeys", "EnviarKeys\EnviarKeys.csproj", "{6DF6ECD4-E2F9-45B9-B9B1-EFEFFF3EB806}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "installer", "installer\installer.aiproj", "{45FC6013-3952-49A3-99B8-9403803D5798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF6ECD4-E2F9-45B9-B9B1-EFEFFF3EB806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF6ECD4-E2F9-45B9-B9B1-EFEFFF3EB806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF6ECD4-E2F9-45B9-B9B1-EFEFFF3EB806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF6ECD4-E2F9-45B9-B9B1-EFEFFF3EB806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FC6013-3952-49A3-99B8-9403803D5798}.Debug|Any CPU.ActiveCfg = All
+		{45FC6013-3952-49A3-99B8-9403803D5798}.Debug|Any CPU.Build.0 = All
+		{45FC6013-3952-49A3-99B8-9403803D5798}.Release|Any CPU.ActiveCfg = All
+		{45FC6013-3952-49A3-99B8-9403803D5798}.Release|Any CPU.Build.0 = All
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
